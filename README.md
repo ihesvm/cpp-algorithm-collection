@@ -9,10 +9,17 @@ _**Search algorithm**_
 - JumpSearch
 - QuickSearch
 - SimpleSearch
+- InterpolationSearch
+- ExponentialSearch
+- SentinalLinearSearch
+- TernarySearch
+
 ---
 _**Sort algorithm**_
 - SelectionSort
 - InsertionSort
 - BubbleSort
 - HeapSort
-
+- ShellSort
+- TreeSort
+- CountingSort

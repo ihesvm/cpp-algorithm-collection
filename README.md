@@ -1,4 +1,4 @@
-# simple-algorithm-cpp
+# C++ Algorithm Collections 
 A little repository for cpp algorithms
 
 ## Existing algorithms
